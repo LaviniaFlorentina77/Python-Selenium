@@ -14,3 +14,4 @@ driver.implicitly_wait(10)
 #details
 driver.get('https://weather.com/ro-RO/weather/hourbyhour/l/d47adb5123610c56b41dcb43c498eb3c8df0591918ce1d678bb6cbac3f50e386')
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+#should countinue here
